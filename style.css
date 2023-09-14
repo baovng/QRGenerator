@@ -126,21 +126,4 @@ a {
 	.btn {
 		min-width: unset;
 	}
-	.action-container {
-		flex-direction: column;
-	}
-	.share-btn {
-		margin-left: 0;
-		margin-top: 0.7rem;
-	}
-}
-
-@media (max-width: 350px) {
-	.action-container {
-		flex-direction: column;
-	}
-	.share-btn {
-		margin-left: 0;
-		margin-top: 0.7rem;
-	}
 }
